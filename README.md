@@ -1,5 +1,3 @@
-# react-projects-7-slider
+# Slider with react
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+Slides that can be changed by the click of a button. Also changes automatically after a set interval of time.
